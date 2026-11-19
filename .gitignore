@@ -1,0 +1,20 @@
+# Data never goes in the repository: it is public and citable instead
+# (GBIF DOI 10.15468/dl.t3hgj6; the other sources are fetched by the scripts).
+*.zip
+*.parquet
+*.csv.gz
+*.xlsx
+data/*
+!data/raw/
+data/raw/*
+!data/raw/gbif_download_info.json
+
+# Python / notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.idea/
+.vscode/
+
+# Notes for the AI assistant (working notes, not part of the project)
+CLAUDE.md

@@ -1,0 +1,3 @@
+run,passed,squares,old_squares,light_per_sd,old_light_per_sd,low95_sd,high95_sd,light_per_10x,sd_log10_light,over_time_per_10x,over_time_95_halfwidth,share_squares_assigned_to_state
+repro_karnataka,True,1020,1020,-0.2286,-0.2286,-2.20,1.75,-0.346,0.661,-1.695,3.927,0.995
+repro_kerala,True,1054,1054,-7.4047,-7.4047,-10.07,-4.74,-16.059,0.461,-0.634,2.275,0.999

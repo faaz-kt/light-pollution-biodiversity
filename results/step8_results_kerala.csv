@@ -1,0 +1,11 @@
+region,test,group,season,analysis,n,coef,se,low95,high95,p,q
+kerala,P1,night share of migrants,winter only,over time,4130,2.810842443,3.391991615,-3.837461123,9.459146009,0.4072910406,
+kerala,P1,night share of migrants,winter only,across space,762,-8.878112976,4.748882943,-18.18592355,0.4296975929,0.06155105003,
+kerala,S1,night migrants (% of all),winter only,over time,4193,1.732521658,0.909503955,-0.05010609331,3.51514941,0.05679198848,0.2076874623
+kerala,S1,night migrants (% of all),winter only,across space,762,-2.015200338,1.049907151,-4.073018355,0.04261767821,0.05493270087,0.2076874623
+kerala,S2,day migrants (% of all),winter only,over time,4193,0.02833371617,0.3478226091,-0.6533985976,0.7100660299,0.9350759369,0.9350759369
+kerala,S2,day migrants (% of all),winter only,across space,762,-0.1171744683,0.3894793682,-0.8805540301,0.6462050934,0.7635296615,0.8726053274
+kerala,S3,night migrants (% of insect-eaters),winter only,over time,4189,2.592232104,2.332744808,-1.97994772,7.164411928,0.2664663928,0.3911371372
+kerala,S3,night migrants (% of insect-eaters),winter only,across space,762,-3.412026898,2.010755313,-7.353107312,0.529053515,0.08971780548,0.2076874623
+kerala,S4,"night birds (% of all, all year)",all year,over time,4455,0.5458877795,0.3356215233,-0.1119304061,1.203705965,0.1038437311,0.2076874623
+kerala,S4,"night birds (% of all, all year)",all year,across space,1056,-0.6929313601,0.6594354788,-1.985424899,0.5995621784,0.2933528529,0.3911371372

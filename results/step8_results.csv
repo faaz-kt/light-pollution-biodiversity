@@ -1,0 +1,11 @@
+region,test,group,season,analysis,n,coef,se,low95,high95,p,q
+karnataka,P1,night share of migrants,winter only,over time,2988,-9.215707922,4.994320093,-19.00457531,0.573159461,0.06500296279,
+karnataka,P1,night share of migrants,winter only,across space,589,7.343682128,2.332500879,2.771980406,11.91538385,0.001641581262,
+karnataka,S1,night migrants (% of all),winter only,over time,3009,2.425283482,1.616446448,-0.7429515558,5.59351852,0.1335160676,0.1525897915
+karnataka,S1,night migrants (% of all),winter only,across space,589,1.486312392,0.4467636357,0.6106556666,2.361969118,0.000878359037,0.003787152819
+karnataka,S2,day migrants (% of all),winter only,over time,3009,2.121608986,0.6417684112,0.8637429002,3.379475072,0.0009467882048,0.003787152819
+karnataka,S2,day migrants (% of all),winter only,across space,589,-0.1734418753,0.4062664576,-0.9697241322,0.6228403817,0.6694401092,0.6694401092
+karnataka,S3,night migrants (% of insect-eaters),winter only,over time,3008,3.794032346,2.053814326,-0.2314437321,7.819508424,0.06470218185,0.09578868614
+karnataka,S3,night migrants (% of insect-eaters),winter only,across space,589,3.028065636,1.151477605,0.7711695308,5.284961742,0.008545479402,0.02278794507
+karnataka,S4,"night birds (% of all, all year)",all year,over time,3115,-0.4073397611,0.2262846402,-0.850857656,0.03617813366,0.0718415146,0.09578868614
+karnataka,S4,"night birds (% of all, all year)",all year,across space,1033,-0.4752088154,0.1890330436,-0.8457135808,-0.10470405,0.01194067086,0.02388134171

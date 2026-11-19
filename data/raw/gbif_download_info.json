@@ -1,0 +1,17 @@
+{
+  "key": "0008405-261110092616502",
+  "doi": "10.15468/dl.t3hgj6",
+  "cite_as": "GBIF.org (15 November 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.t3hgj6",
+  "records": 7816939,
+  "size_bytes": 829711882,
+  "format": "SIMPLE_CSV",
+  "created": "2026-11-15T11:33:20.326+00:00",
+  "taxonomy": "COL (Catalogue of Life XR 2026-10-16)",
+  "filters": {
+    "GADM_GID": "IND.16_1 (Karnataka)",
+    "TAXON_KEY": "V2 (Aves, COL taxonomy)",
+    "HAS_COORDINATE": true,
+    "HAS_GEOSPATIAL_ISSUE": false,
+    "YEAR": "2015-2025"
+  }
+}
