@@ -2,7 +2,7 @@
 
 **Question:** does artificial light at night change which birds are found where, and when, in Karnataka, India?
 
-Faaz Abdulla, BSc (Research) student, Indian Institute of Science, Bengaluru. Semester 1 project (2026).
+Faaz Abdulla Kizhisseri, BSc (Research) student, Indian Institute of Science, Bengaluru. Semester 1 project (2026).
 
 ## Results so far
 
