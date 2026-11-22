@@ -97,4 +97,4 @@ data with a known answer (e.g. a planted "no effect" must come out near zero) be
 
 ## How this was made
 
-Built with Claude (Anthropic), which wrote the code, designed the analyses and drafted the write-ups.
+Built with Claude (Anthropic), which wrote the code and helped with the analysis and write-ups.
